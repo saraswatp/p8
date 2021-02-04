@@ -4,7 +4,7 @@
 # In[2]:
 
 from klein import run, route
-import tkinter
+import _tkinter
 
 app = flask.Flask(__name__)
 
